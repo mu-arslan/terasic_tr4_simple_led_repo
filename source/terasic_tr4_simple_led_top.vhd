@@ -6,7 +6,7 @@
 -- Design Name: 
 -- Module Name: terasic_tr4_simple_led_top - Behavioral
 -- Project Name: 
--- Target Devices: 
+-- Target Devices: Stratix IV GX
 -- Tool Versions: 
 -- Description: 
 -- 
